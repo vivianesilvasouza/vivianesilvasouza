@@ -1,8 +1,12 @@
 ### Olá! Eu sou a Viviane, mas pode me chamar de Vivi 🖐️
 
-👩🏻‍🎓- Sou formada em Análise e desenvolvimento em sistemas na faculdade Unip. 
+E aí, pessoal! Eu sou a Vivi, uma desenvolvedora super animada e pronta para encarar desafios! 🤗
 
-💻- Sou apaixonada por tecnologia e minha preferência é pela área de desenvolvimento web, buscando evoluir tanto no front-end quanto no back-end.
+💻 Sou formada em Análise e Desenvolvimento de Sistemas e tenho uma paixão especial pelo desenvolvimento web. Adoro criar soluções criativas e funcionais para os usuários, tanto no front-end quanto no back-end.
+
+👥 Ah, e trabalho super bem em equipe! Acredito que a colaboração é a chave para o sucesso, e adoro compartilhar conhecimento e ideias com meus colegas. Além disso, sou curiosa por natureza e sempre busco aprender algo novo - afinal, o aprendizado nunca para!
+
+🚀 Então, se você está procurando uma desenvolvedora junior animada e criativa para fazer parte da sua equipe, é só chamar! Vamos juntos criar coisas incríveis. 😎
 
 ## Onde me encontrar:
 
