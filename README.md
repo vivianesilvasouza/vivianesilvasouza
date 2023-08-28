@@ -6,7 +6,7 @@ E aí, pessoal! Eu sou a Vivi, uma desenvolvedora super animada e pronta para en
 
 👥 Ah, e trabalho super bem em equipe! Acredito que a colaboração é a chave para o sucesso, e adoro compartilhar conhecimento e ideias com meus colegas. Além disso, sou curiosa por natureza e sempre busco aprender algo novo - afinal, o aprendizado nunca para!
 
-🚀 Então, se você está procurando uma desenvolvedora junior animada e criativa para fazer parte da sua equipe, é só chamar! Vamos juntos criar coisas incríveis. 😎
+🚀 Então, se você está procurando uma desenvolvedora animada e criativa para fazer parte da sua equipe, é só chamar! Vamos juntos criar coisas incríveis. 😎
 
 ## Onde me encontrar:
 
